@@ -1,1 +1,6 @@
 /.lake
+
+# local environment variables
+/.continue
+.env
+secrets.json

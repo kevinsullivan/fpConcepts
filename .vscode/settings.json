@@ -1,0 +1,30 @@
+{
+    "lean4.input.enabled": true,
+    "lean4.input.leader": "\\",
+    "lean4.elaboration.task.errorMessages": true,
+    "continue.enableTabAutocomplete": true,
+    "continue.telemetryEnabled": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "α": true,
+        "β": true,
+        "γ": true,
+        "δ": true,
+        "∀": true,
+        "∃": true,
+        "→": true,
+        "↔": true,
+        "∧": true,
+        "∨": true,
+        "¬": true,
+        "≤": true,
+        "≥": true,
+        "≠": true,
+        "∈": true,
+        "∉": true,
+        "⊆": true,
+        "⊇": true,
+        "∩": true,
+        "∪": true
+    }
+}
